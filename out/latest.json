@@ -1,5 +1,5 @@
 {
-  "as_of_date": "2025-12-01",
+  "as_of_date": "2026-01-02",
   "cards": [
     {
       "id": "chase_freedom_unlimited",
@@ -64,7 +64,7 @@
         "transit_utils": 0.01
       },
       "notes": "3% on dining, entertainment, popular streaming services and at grocery stores excluding superstores; 8% on Capital One Entertainment; 5% on hotels and rental cars through Capital One Travel; 1% on all other purchases",
-      "annual_fee_usd": 39,
+      "annual_fee_usd": 0,
       "redemption": "Cash back as statement credit, check, or gift cards",
       "activation": "No",
       "caps": null,
