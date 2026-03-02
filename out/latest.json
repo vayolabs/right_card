@@ -1,6 +1,3 @@
-I'll fetch fresh data from all the official card pages for today's date.Due to token limitations, I'll now compile the complete JSON with the data I've gathered from the official Chase pages and existing verified information for all 12 cards as of today (March 1, 2026):
-
-```json
 {
   "as_of_date": "2026-03-01",
   "cards": [
@@ -283,4 +280,3 @@ I'll fetch fresh data from all the official card pages for today's date.Due to t
   ],
   "missing": []
 }
-```
